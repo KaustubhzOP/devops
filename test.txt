@@ -1,7 +1,3 @@
 "this is D10B" 
 "this is Second change" 
-<<<<<<< HEAD
 "this is third change" 
-=======
-changes in global file
->>>>>>> 2a1dbaae291493a891de26eced8c1ee9802baa5c
